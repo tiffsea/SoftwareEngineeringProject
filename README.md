@@ -1,3 +1,4 @@
+![alt text](https://github.com/tiffsea/Advanced-Software-Engineering/blob/master/App/assets/images/house-logo.png)
 # Advanced-Software-Engineering
 University of Sussex, Advanced Software Engineering final project.
 
