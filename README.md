@@ -1,6 +1,4 @@
 ![alt text](https://github.com/tiffsea/Advanced-Software-Engineering/blob/master/App/assets/images/house-logo.png)
-# Advanced-Software-Engineering
-University of Sussex, Advanced Software Engineering final project.
 
 ## Installation
 This is a React Native project. Running the following commands from terminal/CL will ensure a swift start. 
